@@ -1,0 +1,3 @@
+*.swp
+hardware/esp8266-probe-backups
+*.kicad_prl
